@@ -1,0 +1,31 @@
+body {
+  background-image: url(https://www.creativefabrica.com/wp-content/uploads/2020/06/04/Dark-Purple-Gradient-Background-Graphics-4278236-1.jpg); 
+  background-size: auto 200vh;
+  font-family: arial, sans-serif;
+}
+
+.menu ul {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none; 
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+}
+
+.site-title {
+  text-align: center;
+  color: whitesmoke;
+}
+
+.site-subtitle {
+  text-align: center;
+  color: whitesmoke;
+  font-style: italic;
+}
